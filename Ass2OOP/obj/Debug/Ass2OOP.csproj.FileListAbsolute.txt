@@ -1,0 +1,11 @@
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\bin\Debug\images\toia.png
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\bin\Debug\Ass2OOP.exe.config
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\bin\Debug\Ass2OOP.exe
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\bin\Debug\Ass2OOP.pdb
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.Form1.resources
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.exe
+C:\Users\mathe\OneDrive\Documents\all-repositories\Ass2OOP\Ass2OOP\obj\Debug\Ass2OOP.pdb
